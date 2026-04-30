@@ -128,7 +128,7 @@
   "Contact": {
     "eyebrow": "联系",
     "title": "欢迎交流工程实践、产品质量或下一次合作机会。",
-    "description": "表单会先进行校验，然后用预填内容打开你的邮箱客户端，因此无需后端也能立即运行。",
+    "description": "欢迎告诉我你的项目、岗位需求或当前挑战，我会尽快回复你。",
     "emailLabel": "邮箱",
     "locationLabel": "地点",
     "errors": {
@@ -145,7 +145,6 @@
       "submit": "发送消息",
       "submitting": "准备中",
       "success": "你的邮箱客户端正在打开，并已生成预填消息。",
-      "helper": "无需后端：表单会生成一封已校验的邮件草稿。",
       "namePlaceholder": "你的姓名",
       "emailPlaceholder": "you@example.com",
       "companyPlaceholder": "公司或团队",
@@ -157,8 +156,6 @@
       "github": "GitHub",
       "linkedin": "LinkedIn",
       "cv": "简历",
-      "placeholder": "占位链接，可替换为你的真实个人主页。",
-      "ready": "已可直接用于正式作品集。",
       "open": "打开"
     }
   },

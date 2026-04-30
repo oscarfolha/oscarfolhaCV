@@ -23,17 +23,14 @@ export const siteConfig = {
     {
       id: "email",
       href: "mailto:oscarfolha@hotmail.com",
-      placeholder: false,
     },
     {
       id: "github",
       href: "https://github.com/oscarfolha?tab=repositories",
-      placeholder: false,
     },
     {
       id: "linkedin",
       href: "https://www.linkedin.com/in/%C3%B3scar-folha-50a7a923a/",
-      placeholder: false,
     },
 
   ],

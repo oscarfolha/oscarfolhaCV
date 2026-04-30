@@ -128,7 +128,7 @@
   "Contact": {
     "eyebrow": "Contact",
     "title": "Let's talk about engineering, product quality, or the next challenge.",
-    "description": "The contact form validates input and opens your email client with a pre-filled message, keeping the site ready to run without backend setup.",
+    "description": "Share your project, role, or challenge and I will get back to you.",
     "emailLabel": "Email",
     "locationLabel": "Location",
     "errors": {
@@ -144,8 +144,7 @@
       "message": "Message",
       "submit": "Send message",
       "submitting": "Preparing",
-      "success": "Your email client is opening with a pre-filled message.",
-      "helper": "No backend required: the form prepares a validated email draft.",
+      "success": "Your email client is opening so you can send your message.",
       "namePlaceholder": "Your name",
       "emailPlaceholder": "you@example.com",
       "companyPlaceholder": "Company or team",
@@ -157,8 +156,6 @@
       "github": "GitHub",
       "linkedin": "LinkedIn",
       "cv": "Curriculum Vitae",
-      "placeholder": "Placeholder link ready to replace with your live profile.",
-      "ready": "Ready to use in the live portfolio.",
       "open": "Open"
     }
   },

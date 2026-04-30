@@ -137,7 +137,7 @@ export function ContactForm() {
       </div>
       <div className="mt-6 flex flex-col items-start justify-between gap-4 sm:flex-row sm:items-center">
         <div aria-live="polite" className="text-sm text-muted">
-          {feedback ? <span className="text-emerald-300 light:text-emerald-700">{feedback}</span> : t("form.helper")}
+          {feedback ? <span className="text-emerald-300 light:text-emerald-700">{feedback}</span> : null}
         </div>
         <Button disabled={isSubmitting} type="submit">
           {isSubmitting ? t("form.submitting") : t("form.submit")}

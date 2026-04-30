@@ -128,7 +128,7 @@
   "Contact": {
     "eyebrow": "Kontakt",
     "title": "Lassen Sie uns über Engineering, Produktqualität oder die nächste Herausforderung sprechen.",
-    "description": "Das Formular validiert die Eingaben und öffnet Ihren Mail-Client mit einer vorausgefüllten Nachricht. So bleibt die Website ohne Backend direkt lauffähig.",
+    "description": "Erzählen Sie mir von Ihrem Projekt, Ihrer Rolle oder Ihrer Herausforderung, und ich melde mich zeitnah.",
     "emailLabel": "E-Mail",
     "locationLabel": "Standort",
     "errors": {
@@ -145,7 +145,6 @@
       "submit": "Nachricht senden",
       "submitting": "Wird vorbereitet",
       "success": "Ihr Mail-Client wird mit einer vorausgefüllten Nachricht geöffnet.",
-      "helper": "Kein Backend nötig: Das Formular erstellt einen validierten E-Mail-Entwurf.",
       "namePlaceholder": "Ihr Name",
       "emailPlaceholder": "sie@beispiel.de",
       "companyPlaceholder": "Unternehmen oder Team",
@@ -157,8 +156,6 @@
       "github": "GitHub",
       "linkedin": "LinkedIn",
       "cv": "Lebenslauf",
-      "placeholder": "Placeholder-Link, bereit zum Ersetzen durch Ihr echtes Profil.",
-      "ready": "Bereit für den Einsatz im Live-Portfolio.",
       "open": "Öffnen"
     }
   },

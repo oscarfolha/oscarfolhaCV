@@ -60,7 +60,6 @@ export async function ContactSection() {
                     </div>
                     <div className="mt-6">
                       <p className="text-lg font-semibold text-foreground">{t(`social.${link.id}`)}</p>
-                      <p className="mt-2 text-sm leading-7 text-muted">{link.placeholder ? t("social.placeholder") : t("social.ready")}</p>
                     </div>
                     <Button className="mt-6" href={link.href} variant="secondary">
                       {t("social.open")}

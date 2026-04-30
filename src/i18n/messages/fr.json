@@ -128,7 +128,7 @@
   "Contact": {
     "eyebrow": "Contact",
     "title": "Parlons ingénierie, qualité produit ou prochain défi.",
-    "description": "Le formulaire valide les champs puis ouvre votre client mail avec un message prérempli, ce qui laisse le site prêt à fonctionner sans backend.",
+    "description": "Parlez-moi de votre projet, de votre poste ou de votre défi, je vous répondrai rapidement.",
     "emailLabel": "Email",
     "locationLabel": "Localisation",
     "errors": {
@@ -145,7 +145,6 @@
       "submit": "Envoyer le message",
       "submitting": "Préparation",
       "success": "Votre client mail s'ouvre avec un message prérempli.",
-      "helper": "Aucun backend nécessaire : le formulaire prépare un brouillon validé.",
       "namePlaceholder": "Votre nom",
       "emailPlaceholder": "vous@exemple.com",
       "companyPlaceholder": "Entreprise ou équipe",
@@ -157,8 +156,6 @@
       "github": "GitHub",
       "linkedin": "LinkedIn",
       "cv": "Curriculum Vitae",
-      "placeholder": "Lien placeholder prêt à être remplacé par votre profil réel.",
-      "ready": "Prêt à être utilisé dans le portfolio final.",
       "open": "Ouvrir"
     }
   },

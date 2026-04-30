@@ -128,7 +128,7 @@
   "Contact": {
     "eyebrow": "Contacto",
     "title": "Hablemos de ingeniería, calidad de producto o del próximo reto.",
-    "description": "El formulario valida la información y abre tu cliente de correo con un mensaje prellenado, dejando el sitio listo para ejecutarse sin backend.",
+    "description": "Cuéntame sobre tu proyecto, rol o reto y te responderé pronto.",
     "emailLabel": "Email",
     "locationLabel": "Ubicación",
     "errors": {
@@ -145,7 +145,6 @@
       "submit": "Enviar mensaje",
       "submitting": "Preparando",
       "success": "Tu cliente de correo se está abriendo con un mensaje prellenado.",
-      "helper": "Sin backend: el formulario prepara un borrador validado.",
       "namePlaceholder": "Tu nombre",
       "emailPlaceholder": "tu@ejemplo.com",
       "companyPlaceholder": "Empresa o equipo",
@@ -157,8 +156,6 @@
       "github": "GitHub",
       "linkedin": "LinkedIn",
       "cv": "Currículum Vitae",
-      "placeholder": "Enlace placeholder listo para sustituir por tu perfil real.",
-      "ready": "Listo para usar en el portfolio final.",
       "open": "Abrir"
     }
   },

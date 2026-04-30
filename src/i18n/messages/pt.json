@@ -128,7 +128,7 @@
   "Contact": {
     "eyebrow": "Contacto",
     "title": "Vamos falar sobre engenharia, qualidade de produto ou o próximo desafio.",
-    "description": "O formulário valida os dados e abre o cliente de email com uma mensagem pré-preenchida, deixando o site pronto a executar sem backend.",
+    "description": "Partilha o teu projeto, função ou desafio e eu respondo-te em breve.",
     "emailLabel": "Email",
     "locationLabel": "Localização",
     "errors": {
@@ -145,7 +145,6 @@
       "submit": "Enviar mensagem",
       "submitting": "A preparar",
       "success": "O teu cliente de email está a abrir com uma mensagem pré-preenchida.",
-      "helper": "Sem backend: o formulário prepara um rascunho de email validado.",
       "namePlaceholder": "O teu nome",
       "emailPlaceholder": "tu@exemplo.com",
       "companyPlaceholder": "Empresa ou equipa",
@@ -157,8 +156,6 @@
       "github": "GitHub",
       "linkedin": "LinkedIn",
       "cv": "Curriculum Vitae",
-      "placeholder": "Link placeholder pronto a substituir pelo teu perfil real.",
-      "ready": "Pronto a usar no portefólio final.",
       "open": "Abrir"
     }
   },

@@ -23,6 +23,24 @@ export async function generateMetadata({ params }: LayoutProps<"/[locale]">): Pr
       template: `%s | ${siteConfig.name}`,
     },
     description: t("description"),
+    keywords: [
+      "Oscar Folha",
+      "Óscar Folha",
+      "Software Engineer",
+      "Full Stack Developer",
+      "TypeScript",
+      "React",
+      "Node.js",
+      "Portugal",
+    ],
+    robots: {
+      follow: true,
+      index: true,
+      googleBot: {
+        follow: true,
+        index: true,
+      },
+    },
     alternates: {
       canonical: `/${locale}`,
       languages: Object.fromEntries(routing.locales.map((item) => [item, `/${item}`])),
@@ -61,10 +79,30 @@ export default async function LocaleLayout({ children, params }: LayoutProps<"/[
 
   setRequestLocale(locale);
   const messages = await getMessages();
+  const personStructuredData = {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    name: siteConfig.name,
+    jobTitle: siteConfig.title,
+    email: siteConfig.email,
+    address: {
+      "@type": "PostalAddress",
+      addressLocality: "Matosinhos",
+      addressCountry: "PT",
+    },
+    url: `${siteConfig.siteUrl}/${locale}`,
+    sameAs: siteConfig.socialLinks.map((link) => link.href).filter((href) => href.startsWith("http")),
+  };
 
   return (
     <NextIntlClientProvider messages={messages}>
       <div className="relative min-h-screen overflow-x-clip">
+        <script
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(personStructuredData),
+          }}
+          type="application/ld+json"
+        />
         <div aria-hidden className="page-gradient pointer-events-none fixed inset-0 -z-10" />
         <Navbar />
         {children}

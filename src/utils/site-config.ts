@@ -1,10 +1,16 @@
+function normalizeSiteUrl(value: string) {
+  return value.replace(/\/$/, "");
+}
+
+const envSiteUrl = process.env.NEXT_PUBLIC_SITE_URL;
+
 export const siteConfig = {
   name: "Óscar Folha",
   title: "Software Engineer",
   email: "oscarfolha@hotmail.com",
   location: "Matosinhos, Portugal",
   birthday: "15-04-2000",
-  siteUrl: "https://oscar-folha.dev",
+  siteUrl: normalizeSiteUrl(envSiteUrl?.trim() || "https://oscar-folha.dev"),
   localeLabels: {
     en: "English",
     pt: "Português",

@@ -3,14 +3,9 @@
   "devCommand": "npm run dev",
   "installCommand": "npm ci",
   "framework": "nextjs",
-  "env": [
-    {
-      "key": "NEXT_PUBLIC_SITE_URL",
-      "description": "The public URL of the deployed site",
-      "value": "",
-      "type": "plain"
-    }
-  ],
+  "env": {
+    "NEXT_PUBLIC_SITE_URL": ""
+  },
   "regions": ["iad1"],
   "functions": {
     "api/**": {

@@ -1,0 +1,169 @@
+{
+  "Metadata": {
+    "title": "Óscar Folha | 软件工程师",
+    "description": "Óscar Folha 的高端多语言作品集网站，专注于全栈开发、产品质量与高效协作交付。"
+  },
+  "Nav": {
+    "home": "首页",
+    "about": "关于我",
+    "experience": "经历",
+    "projects": "项目",
+    "gallery": "图库",
+    "contact": "联系"
+  },
+  "ThemeToggle": {
+    "light": "切换到浅色模式",
+    "dark": "切换到深色模式"
+  },
+  "LanguageSwitcher": {
+    "label": "切换语言"
+  },
+  "Hero": {
+    "eyebrow": "软件工程师",
+    "greeting": "Óscar Folha",
+    "titleLead": "以",
+    "titleAccent": "清晰与进取心",
+    "intro": "我是一名兼具技术能力与沟通能力的软件工程师。自我要求高、乐于学习、目标明确、善于反思且保持自信，也非常重视团队合作、想法交流与建设性反馈。",
+    "primaryCta": "联系我",
+    "secondaryCta": "查看项目",
+    "availability": "当前状态",
+    "availabilityValue": "愿意参与有影响力的工程工作",
+    "locationLabel": "所在地",
+    "experienceLabel": "经验",
+    "experienceValue": "3年以上软件工程经验"
+  },
+  "About": {
+    "eyebrow": "关于我",
+    "title": "重视产品思维、技术严谨性与高质量协作的软件工程师。",
+    "description": "我喜欢解决全栈问题、提升交付质量，并帮助团队以更高的信任度、清晰度和节奏推进工作。",
+    "quote": "我喜欢团队合作，也乐于帮助营造一个可以持续交流想法、互相支持并提供建设性反馈的积极环境。",
+    "details": {
+      "location": "地点",
+      "birthday": "出生日期",
+      "education": "教育背景"
+    },
+    "educationDegrees": "软件工程学士与硕士",
+    "educationInstitution": "ISEP Porto",
+    "skillsEyebrow": "核心能力",
+    "skillsTitle": "兼顾产品思维、交付能力与技术深度的技能组合",
+    "skills": {
+      "fullStack": "全栈开发",
+      "english": "高级英语",
+      "typescript": "TypeScript 与 JavaScript",
+      "react": "React 与 Node.js",
+      "java": "Java",
+      "graphql": "GraphQL",
+      "docker": "Docker 与 Jenkins",
+      "databases": "数据库",
+      "softwareDesign": "软件设计与开发",
+      "devops": "DevOps"
+    }
+  },
+  "Experience": {
+    "eyebrow": "经历",
+    "title": "在真实生产环境与扎实学术基础中不断成长的工程路径。",
+    "description": "从企业软件交付到深入的软件工程学习，每一步都强化了我在设计、沟通与执行上的能力。",
+    "items": {
+      "msglife": {
+        "period": "2022年3月 - 至今",
+        "title": "软件工程师",
+        "company": "msg life iberia",
+        "summary": "我在专业的软件工程环境中参与产品交付，关注系统可靠性、团队协作和持续改进。",
+        "points": [
+          "开发并演进软件解决方案，关注可维护性与产品质量。",
+          "跨团队协作，积极分享反馈，推动健康的交付流程。",
+          "在技术执行、清晰沟通与责任感之间保持平衡。"
+        ]
+      },
+      "masters": {
+        "period": "硕士",
+        "title": "软件工程硕士",
+        "company": "ISEP Porto",
+        "summary": "深入学习软件工程方法、架构设计与严谨的技术思维方式。",
+        "points": [
+          "进一步提升了对软件架构与开发实践的理解。",
+          "强化了系统层面的分析思维与问题解决能力。",
+          "为复杂工程决策建立了更扎实的基础。"
+        ]
+      },
+      "bachelors": {
+        "period": "学士",
+        "title": "软件工程学士",
+        "company": "ISEP Porto",
+        "summary": "在编程、系统、团队协作与工程基础方面建立了全面的技术底座。",
+        "points": [
+          "打下了扎实的软件工程基础。",
+          "参与了带有真实交付约束的协作项目。",
+          "为全栈工程方向建立了稳固起点。"
+        ]
+      }
+    }
+  },
+  "Projects": {
+    "eyebrow": "项目",
+    "title": "在 GitHub 上探索我的工作",
+    "description": "发现一系列工程项目、工具和贡献，跨越全栈开发、DevOps 和产品工程领域。",
+    "cta": "查看所有代码库"
+  },
+  "Gallery": {
+    "eyebrow": "图库",
+    "title": "学术与科技社区中的精彩瞬间",
+    "description": "我在大学、硕士学习期间以及参与波尔图科技生态的旅程片段。",
+    "open": "查看图片",
+    "items": {
+      "masters": {
+        "title": "硕士学位",
+        "alt": "ISEP Porto 硕士项目期间的肖像"
+      },
+      "portoTechHub": {
+        "title": "Porto Tech Hub 活动",
+        "alt": "波尔图科技社区活动中的交流"
+      },
+      "masters2": {
+        "title": "学术生涯",
+        "alt": "大学生活和学习时刻"
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "联系",
+    "title": "欢迎交流工程实践、产品质量或下一次合作机会。",
+    "description": "表单会先进行校验，然后用预填内容打开你的邮箱客户端，因此无需后端也能立即运行。",
+    "emailLabel": "邮箱",
+    "locationLabel": "地点",
+    "errors": {
+      "nameRequired": "请输入你的姓名。",
+      "emailRequired": "请输入你的邮箱。",
+      "emailInvalid": "请输入有效的邮箱地址。",
+      "messageRequired": "请输入留言内容。"
+    },
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "company": "公司",
+      "message": "留言",
+      "submit": "发送消息",
+      "submitting": "准备中",
+      "success": "你的邮箱客户端正在打开，并已生成预填消息。",
+      "helper": "无需后端：表单会生成一封已校验的邮件草稿。",
+      "namePlaceholder": "你的姓名",
+      "emailPlaceholder": "you@example.com",
+      "companyPlaceholder": "公司或团队",
+      "messagePlaceholder": "告诉我你的项目、职位需求或当前挑战。",
+      "subjectPrefix": "作品集联系来自"
+    },
+    "social": {
+      "email": "邮箱",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "cv": "简历",
+      "placeholder": "占位链接，可替换为你的真实个人主页。",
+      "ready": "已可直接用于正式作品集。",
+      "open": "打开"
+    }
+  },
+  "Footer": {
+    "copy": "© {year}",
+    "built": "基于 Next.js、TypeScript、Tailwind CSS、Framer Motion 和 next-intl 构建。"
+  }
+}

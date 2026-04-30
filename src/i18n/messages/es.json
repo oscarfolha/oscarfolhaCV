@@ -1,0 +1,169 @@
+{
+  "Metadata": {
+    "title": "Óscar Folha | Ingeniero de Software",
+    "description": "Portfolio premium multilingüe de Óscar Folha, ingeniero de software centrado en desarrollo full-stack, calidad de producto y entrega colaborativa."
+  },
+  "Nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "gallery": "Galería",
+    "contact": "Contacto"
+  },
+  "ThemeToggle": {
+    "light": "Cambiar a modo claro",
+    "dark": "Cambiar a modo oscuro"
+  },
+  "LanguageSwitcher": {
+    "label": "Cambiar idioma"
+  },
+  "Hero": {
+    "eyebrow": "Ingeniero de Software",
+    "greeting": "Óscar Folha",
+    "titleLead": "Construyo productos digitales con",
+    "titleAccent": "claridad y ambición",
+    "intro": "Ingeniero de software con sólidas habilidades técnicas y sociales. Soy ambicioso, con ganas de aprender, determinado, autocrítico pero seguro, y disfruto del trabajo en equipo, del intercambio de ideas y del feedback constructivo.",
+    "primaryCta": "Contactar",
+    "secondaryCta": "Ver proyectos",
+    "availability": "Disponibilidad",
+    "availabilityValue": "Abierto a retos de ingeniería con impacto",
+    "locationLabel": "Ubicación",
+    "experienceLabel": "Experiencia",
+    "experienceValue": "Más de 3 años en ingeniería de software"
+  },
+  "About": {
+    "eyebrow": "Sobre mí",
+    "title": "Un ingeniero orientado al producto que valora el rigor técnico y la colaboración sana.",
+    "description": "Me gusta resolver problemas en toda la stack, mejorar la calidad de entrega y ayudar a los equipos a trabajar con más confianza, claridad y ritmo.",
+    "quote": "Disfruto del trabajo en equipo y de ayudar a crear un entorno positivo con intercambio constante de ideas, apoyo y feedback constructivo.",
+    "details": {
+      "location": "Ubicación",
+      "birthday": "Fecha de nacimiento",
+      "education": "Formación"
+    },
+    "educationDegrees": "Grado y Máster en Ingeniería Informática",
+    "educationInstitution": "ISEP Porto",
+    "skillsEyebrow": "Capacidades clave",
+    "skillsTitle": "Habilidades que combinan visión de producto, entrega y profundidad técnica",
+    "skills": {
+      "fullStack": "Desarrollo Full Stack",
+      "english": "Inglés avanzado",
+      "typescript": "TypeScript y JavaScript",
+      "react": "React y Node.js",
+      "java": "Java",
+      "graphql": "GraphQL",
+      "docker": "Docker y Jenkins",
+      "databases": "Bases de datos",
+      "softwareDesign": "Diseño y desarrollo de software",
+      "devops": "DevOps"
+    }
+  },
+  "Experience": {
+    "eyebrow": "Experiencia",
+    "title": "Una trayectoria marcada por trabajo en producción y una base académica sólida.",
+    "description": "Desde la entrega de software empresarial hasta estudios avanzados de ingeniería, cada etapa ha reforzado cómo diseño, comunico y ejecuto.",
+    "items": {
+      "msglife": {
+        "period": "Marzo 2022 - Actualidad",
+        "title": "Ingeniero de Software",
+        "company": "msg life iberia",
+        "summary": "Contribuyo a la entrega de software en un entorno profesional de ingeniería con foco en fiabilidad, colaboración y mejora continua.",
+        "points": [
+          "Desarrollo y evolución de soluciones con atención al mantenimiento y a la calidad del producto.",
+          "Colaboración entre equipos, intercambio de feedback y apoyo a prácticas sanas de entrega.",
+          "Equilibrio entre ejecución técnica, comunicación clara y sentido de responsabilidad."
+        ]
+      },
+      "masters": {
+        "period": "Máster",
+        "title": "Máster en Ingeniería Informática",
+        "company": "ISEP Porto",
+        "summary": "Formación avanzada centrada en métodos de ingeniería de software, arquitectura y pensamiento técnico disciplinado.",
+        "points": [
+          "Profundización en arquitectura de software y prácticas de desarrollo.",
+          "Refuerzo del pensamiento analítico y la resolución de problemas a nivel de sistemas.",
+          "Base más sólida para tomar decisiones de ingeniería complejas."
+        ]
+      },
+      "bachelors": {
+        "period": "Grado",
+        "title": "Grado en Ingeniería Informática",
+        "company": "ISEP Porto",
+        "summary": "Base técnica amplia en programación, sistemas, trabajo en equipo y fundamentos de ingeniería.",
+        "points": [
+          "Desarrollo de fundamentos sólidos en ingeniería del software.",
+          "Participación en proyectos colaborativos con restricciones reales de entrega.",
+          "Construcción de la base para una trayectoria full stack."
+        ]
+      }
+    }
+  },
+  "Projects": {
+    "eyebrow": "Proyectos",
+    "title": "Explora mi trabajo en GitHub",
+    "description": "Descubre una colección de proyectos de ingeniería, herramientas y contribuciones en desarrollo full-stack, DevOps e ingeniería de producto.",
+    "cta": "Ver todos los repositorios"
+  },
+  "Gallery": {
+    "eyebrow": "Galería",
+    "title": "Momentos de la academia y la comunidad tech",
+    "description": "Una perspectiva de mi viaje a través de la universidad, estudios de máster y participación en el ecosistema tecnológico del Porto.",
+    "open": "Abrir imagen",
+    "items": {
+      "masters": {
+        "title": "Estudios de Máster",
+        "alt": "Retrato del programa de máster en ISEP Porto"
+      },
+      "portoTechHub": {
+        "title": "Evento Porto Tech Hub",
+        "alt": "Networking en evento de comunidad tecnológica de Porto"
+      },
+      "masters2": {
+        "title": "Vida Académica",
+        "alt": "Momentos de la vida universitaria y estudios"
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Contacto",
+    "title": "Hablemos de ingeniería, calidad de producto o del próximo reto.",
+    "description": "El formulario valida la información y abre tu cliente de correo con un mensaje prellenado, dejando el sitio listo para ejecutarse sin backend.",
+    "emailLabel": "Email",
+    "locationLabel": "Ubicación",
+    "errors": {
+      "nameRequired": "Por favor, introduce tu nombre.",
+      "emailRequired": "Por favor, introduce tu email.",
+      "emailInvalid": "Por favor, introduce un email válido.",
+      "messageRequired": "Por favor, introduce un mensaje."
+    },
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "company": "Empresa",
+      "message": "Mensaje",
+      "submit": "Enviar mensaje",
+      "submitting": "Preparando",
+      "success": "Tu cliente de correo se está abriendo con un mensaje prellenado.",
+      "helper": "Sin backend: el formulario prepara un borrador validado.",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "tu@ejemplo.com",
+      "companyPlaceholder": "Empresa o equipo",
+      "messagePlaceholder": "Cuéntame sobre el proyecto, puesto o desafío.",
+      "subjectPrefix": "Contacto del portfolio de"
+    },
+    "social": {
+      "email": "Email",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "cv": "Currículum Vitae",
+      "placeholder": "Enlace placeholder listo para sustituir por tu perfil real.",
+      "ready": "Listo para usar en el portfolio final.",
+      "open": "Abrir"
+    }
+  },
+  "Footer": {
+    "copy": "© {year}",
+    "built": "Construido con Next.js, TypeScript, Tailwind CSS, Framer Motion y next-intl."
+  }
+}

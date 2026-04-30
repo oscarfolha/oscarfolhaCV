@@ -1,0 +1,169 @@
+{
+  "Metadata": {
+    "title": "Óscar Folha | Software Engineer",
+    "description": "Premium-Portfolio von Óscar Folha, einem Software Engineer mit Fokus auf Full-Stack-Entwicklung, Produktqualität und kollaborative Umsetzung."
+  },
+  "Nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "gallery": "Galerie",
+    "contact": "Kontakt"
+  },
+  "ThemeToggle": {
+    "light": "Zum hellen Modus wechseln",
+    "dark": "Zum dunklen Modus wechseln"
+  },
+  "LanguageSwitcher": {
+    "label": "Sprache ändern"
+  },
+  "Hero": {
+    "eyebrow": "Software Engineer",
+    "greeting": "Óscar Folha",
+    "titleLead": "Ich entwickle digitale Produkte mit",
+    "titleAccent": "Klarheit und Ambition",
+    "intro": "Software Engineer mit starken technischen und sozialen Fähigkeiten. Ich bin ehrgeizig, lernbereit, entschlossen, selbstkritisch und zugleich selbstbewusst. Teamarbeit, Ideenaustausch und konstruktives Feedback motivieren mich besonders.",
+    "primaryCta": "Kontakt aufnehmen",
+    "secondaryCta": "Projekte ansehen",
+    "availability": "Verfügbarkeit",
+    "availabilityValue": "Offen für wirkungsvolle Engineering-Herausforderungen",
+    "locationLabel": "Standort",
+    "experienceLabel": "Erfahrung",
+    "experienceValue": "Mehr als 3 Jahre in Software Engineering"
+  },
+  "About": {
+    "eyebrow": "Über mich",
+    "title": "Ein produktorientierter Engineer, der technische Präzision und gesunde Zusammenarbeit schätzt.",
+    "description": "Ich löse gern Probleme über den gesamten Stack hinweg, verbessere die Lieferqualität und helfe Teams, mit mehr Vertrauen, Klarheit und Tempo zu arbeiten.",
+    "quote": "Ich arbeite gern im Team und helfe dabei, ein positives Umfeld mit ständigem Ideenaustausch, Unterstützung und konstruktivem Feedback zu schaffen.",
+    "details": {
+      "location": "Standort",
+      "birthday": "Geburtsdatum",
+      "education": "Ausbildung"
+    },
+    "educationDegrees": "Bachelor und Master in Software Engineering",
+    "educationInstitution": "ISEP Porto",
+    "skillsEyebrow": "Kernkompetenzen",
+    "skillsTitle": "Kompetenzen zwischen Produktdenken, Delivery und technischer Tiefe",
+    "skills": {
+      "fullStack": "Full Stack Entwicklung",
+      "english": "Fortgeschrittenes Englisch",
+      "typescript": "TypeScript und JavaScript",
+      "react": "React und Node.js",
+      "java": "Java",
+      "graphql": "GraphQL",
+      "docker": "Docker und Jenkins",
+      "databases": "Datenbanken",
+      "softwareDesign": "Software Design und Entwicklung",
+      "devops": "DevOps"
+    }
+  },
+  "Experience": {
+    "eyebrow": "Erfahrung",
+    "title": "Ein Werdegang geprägt von produktiver Softwarearbeit und soliden akademischen Grundlagen.",
+    "description": "Von Enterprise-Software bis zu vertieften Ingenieurstudien hat jeder Schritt gestärkt, wie ich entwerfe, kommuniziere und umsetze.",
+    "items": {
+      "msglife": {
+        "period": "März 2022 - Heute",
+        "title": "Software Engineer",
+        "company": "msg life iberia",
+        "summary": "Ich trage zur Softwarelieferung in einem professionellen Engineering-Umfeld bei, mit Fokus auf Zuverlässigkeit, Zusammenarbeit und kontinuierliche Verbesserung.",
+        "points": [
+          "Weiterentwicklung von Lösungen mit Blick auf Wartbarkeit und Produktqualität.",
+          "Zusammenarbeit über Teams hinweg, aktiver Feedback-Austausch und Unterstützung guter Delivery-Praktiken.",
+          "Balance zwischen technischer Umsetzung, klarer Kommunikation und Ownership."
+        ]
+      },
+      "masters": {
+        "period": "Master",
+        "title": "Master in Software Engineering",
+        "company": "ISEP Porto",
+        "summary": "Vertiefte akademische Arbeit mit Fokus auf Software-Engineering-Methoden, Architektur und diszipliniertes technisches Denken.",
+        "points": [
+          "Vertiefung in Softwarearchitektur und Entwicklungspraktiken.",
+          "Stärkung analytischen Denkens und systemischer Problemlösung.",
+          "Noch bessere Grundlage für komplexe Engineering-Entscheidungen."
+        ]
+      },
+      "bachelors": {
+        "period": "Bachelor",
+        "title": "Bachelor in Software Engineering",
+        "company": "ISEP Porto",
+        "summary": "Breite technische Grundlage in Programmierung, Systemen, Teamarbeit und Ingenieur-Grundlagen.",
+        "points": [
+          "Aufbau starker Grundlagen in Software Engineering.",
+          "Arbeit an kollaborativen Projekten mit realistischen Lieferanforderungen.",
+          "Basis für einen Full-Stack-Weg geschaffen."
+        ]
+      }
+    }
+  },
+  "Projects": {
+    "eyebrow": "Projekte",
+    "title": "Erkunden Sie meine arbeit auf GitHub",
+    "description": "Entdecken Sie eine Sammlung von Engineering-Projekten, Tools und Beiträgen in Full-Stack-Entwicklung, DevOps und Product Engineering.",
+    "cta": "Alle Repositories ansehen"
+  },
+  "Gallery": {
+    "eyebrow": "Galerie",
+    "title": "Momente aus Akademie und Tech-Gemeinschaft",
+    "description": "Ein Einblick in meinen Weg durch die Universität, das Masterstudium und die Teilnahme am Technologie-Ökosystem Porto.",
+    "open": "Bild öffnen",
+    "items": {
+      "masters": {
+        "title": "Masterstudium",
+        "alt": "Porträt aus dem Masterprogramm der ISEP Porto"
+      },
+      "portoTechHub": {
+        "title": "Porto Tech Hub Event",
+        "alt": "Networking bei einer Veranstaltung der Porto-Tech-Community"
+      },
+      "masters2": {
+        "title": "Akademisches Leben",
+        "alt": "Momente aus Universitätsleben und Studium"
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Kontakt",
+    "title": "Lassen Sie uns über Engineering, Produktqualität oder die nächste Herausforderung sprechen.",
+    "description": "Das Formular validiert die Eingaben und öffnet Ihren Mail-Client mit einer vorausgefüllten Nachricht. So bleibt die Website ohne Backend direkt lauffähig.",
+    "emailLabel": "E-Mail",
+    "locationLabel": "Standort",
+    "errors": {
+      "nameRequired": "Bitte geben Sie Ihren Namen ein.",
+      "emailRequired": "Bitte geben Sie Ihre E-Mail ein.",
+      "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "messageRequired": "Bitte geben Sie eine Nachricht ein."
+    },
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "submitting": "Wird vorbereitet",
+      "success": "Ihr Mail-Client wird mit einer vorausgefüllten Nachricht geöffnet.",
+      "helper": "Kein Backend nötig: Das Formular erstellt einen validierten E-Mail-Entwurf.",
+      "namePlaceholder": "Ihr Name",
+      "emailPlaceholder": "sie@beispiel.de",
+      "companyPlaceholder": "Unternehmen oder Team",
+      "messagePlaceholder": "Erzählen Sie mir vom Projekt, der Rolle oder der Herausforderung.",
+      "subjectPrefix": "Portfolio-Anfrage von"
+    },
+    "social": {
+      "email": "E-Mail",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "cv": "Lebenslauf",
+      "placeholder": "Placeholder-Link, bereit zum Ersetzen durch Ihr echtes Profil.",
+      "ready": "Bereit für den Einsatz im Live-Portfolio.",
+      "open": "Öffnen"
+    }
+  },
+  "Footer": {
+    "copy": "© {year}",
+    "built": "Erstellt mit Next.js, TypeScript, Tailwind CSS, Framer Motion und next-intl."
+  }
+}

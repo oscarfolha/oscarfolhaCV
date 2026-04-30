@@ -1,0 +1,169 @@
+{
+  "Metadata": {
+    "title": "Óscar Folha | Engenheiro de Software",
+    "description": "Portefólio premium multilingue de Óscar Folha, engenheiro de software focado em desenvolvimento full-stack, qualidade de produto e entrega colaborativa."
+  },
+  "Nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "gallery": "Galeria",
+    "contact": "Contacto"
+  },
+  "ThemeToggle": {
+    "light": "Mudar para modo claro",
+    "dark": "Mudar para modo escuro"
+  },
+  "LanguageSwitcher": {
+    "label": "Alterar idioma"
+  },
+  "Hero": {
+    "eyebrow": "Engenheiro de Software",
+    "greeting": "Óscar Folha",
+    "titleLead": "Crio produtos digitais com",
+    "titleAccent": "clareza e ambição",
+    "intro": "Engenheiro de software com fortes competências técnicas e sociais. Sou uma pessoa ambiciosa, com vontade de aprender, determinada, autocrítica mas confiante, e motivada pelo trabalho em equipa, pela troca de ideias e pelo feedback construtivo.",
+    "primaryCta": "Contactar",
+    "secondaryCta": "Ver projetos",
+    "availability": "Disponibilidade",
+    "availabilityValue": "Aberto a desafios de engenharia com impacto",
+    "locationLabel": "Localização",
+    "experienceLabel": "Experiência",
+    "experienceValue": "Mais de 3 anos em engenharia de software"
+  },
+  "About": {
+    "eyebrow": "Sobre",
+    "title": "Um engenheiro orientado ao produto que valoriza rigor técnico e colaboração saudável.",
+    "description": "Gosto de resolver problemas em toda a stack, melhorar a qualidade da entrega e ajudar equipas a trabalhar com mais confiança, clareza e ritmo.",
+    "quote": "Gosto de trabalho em equipa e de ajudar a criar um ambiente positivo com troca constante de ideias, apoio e feedback construtivo.",
+    "details": {
+      "location": "Localização",
+      "birthday": "Data de nascimento",
+      "education": "Formação"
+    },
+    "educationDegrees": "Licenciatura e Mestrado em Engenharia Informática",
+    "educationInstitution": "ISEP Porto",
+    "skillsEyebrow": "Capacidades principais",
+    "skillsTitle": "Competências que combinam visão de produto, entrega e profundidade técnica",
+    "skills": {
+      "fullStack": "Desenvolvimento Full Stack",
+      "english": "Inglês avançado",
+      "typescript": "TypeScript e JavaScript",
+      "react": "React e Node.js",
+      "java": "Java",
+      "graphql": "GraphQL",
+      "docker": "Docker e Jenkins",
+      "databases": "Bases de dados",
+      "softwareDesign": "Desenho e desenvolvimento de software",
+      "devops": "DevOps"
+    }
+  },
+  "Experience": {
+    "eyebrow": "Experiência",
+    "title": "Uma trajetória marcada por trabalho em produção e bases académicas sólidas.",
+    "description": "Da entrega de software empresarial aos estudos avançados em engenharia, cada etapa reforçou a forma como desenho, comunico e executo.",
+    "items": {
+      "msglife": {
+        "period": "Março 2022 - Presente",
+        "title": "Engenheiro de Software",
+        "company": "msg life iberia",
+        "summary": "Contribuo para a entrega de software num contexto profissional de engenharia com foco em fiabilidade, colaboração e melhoria contínua.",
+        "points": [
+          "Desenvolvimento e evolução de soluções com atenção à manutenção e à qualidade do produto.",
+          "Colaboração entre equipas, partilha de feedback e apoio a práticas de entrega saudáveis.",
+          "Equilíbrio entre execução técnica, comunicação clara e sentido de responsabilidade."
+        ]
+      },
+      "masters": {
+        "period": "Mestrado",
+        "title": "Mestrado em Engenharia Informática",
+        "company": "ISEP Porto",
+        "summary": "Formação avançada centrada em métodos de engenharia de software, arquitetura e pensamento técnico disciplinado.",
+        "points": [
+          "Aprofundamento em arquitetura de software e práticas de desenvolvimento.",
+          "Reforço do pensamento analítico e da resolução de problemas ao nível de sistemas.",
+          "Base mais sólida para decisões de engenharia complexas."
+        ]
+      },
+      "bachelors": {
+        "period": "Licenciatura",
+        "title": "Licenciatura em Engenharia Informática",
+        "company": "ISEP Porto",
+        "summary": "Base técnica abrangente em programação, sistemas, trabalho em equipa e fundamentos de engenharia.",
+        "points": [
+          "Desenvolvimento de bases fortes em engenharia de software.",
+          "Participação em projetos colaborativos com restrições reais de entrega.",
+          "Construção da base para um percurso full stack."
+        ]
+      }
+    }
+  },
+  "Projects": {
+    "eyebrow": "Projetos",
+    "title": "Explore o meu trabalho no GitHub",
+    "description": "Descubra uma coleção de projetos de engenharia, ferramentas e contribuições em desenvolvimento full-stack, DevOps e product engineering.",
+    "cta": "Ver todos os repositórios"
+  },
+  "Gallery": {
+    "eyebrow": "Galeria",
+    "title": "Momentos da academia e da comunidade tech",
+    "description": "Uma perspectiva do meu percurso pela universidade, mestrado e participação no ecossistema tecnológico do Porto.",
+    "open": "Abrir imagem",
+    "items": {
+      "masters": {
+        "title": "Estudos de Mestrado",
+        "alt": "Retrato do programa de mestrado da ISEP Porto"
+      },
+      "portoTechHub": {
+        "title": "Evento Porto Tech Hub",
+        "alt": "Networking em evento da comunidade tecnológica do Porto"
+      },
+      "masters2": {
+        "title": "Vida Académica",
+        "alt": "Momentos da vida universitária e estudos"
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Contacto",
+    "title": "Vamos falar sobre engenharia, qualidade de produto ou o próximo desafio.",
+    "description": "O formulário valida os dados e abre o cliente de email com uma mensagem pré-preenchida, deixando o site pronto a executar sem backend.",
+    "emailLabel": "Email",
+    "locationLabel": "Localização",
+    "errors": {
+      "nameRequired": "Por favor, introduz o teu nome.",
+      "emailRequired": "Por favor, introduz o teu email.",
+      "emailInvalid": "Por favor, introduz um email válido.",
+      "messageRequired": "Por favor, introduz uma mensagem."
+    },
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "company": "Empresa",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem",
+      "submitting": "A preparar",
+      "success": "O teu cliente de email está a abrir com uma mensagem pré-preenchida.",
+      "helper": "Sem backend: o formulário prepara um rascunho de email validado.",
+      "namePlaceholder": "O teu nome",
+      "emailPlaceholder": "tu@exemplo.com",
+      "companyPlaceholder": "Empresa ou equipa",
+      "messagePlaceholder": "Fala-me sobre o projeto, função ou desafio.",
+      "subjectPrefix": "Contacto do portefólio de"
+    },
+    "social": {
+      "email": "Email",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "cv": "Curriculum Vitae",
+      "placeholder": "Link placeholder pronto a substituir pelo teu perfil real.",
+      "ready": "Pronto a usar no portefólio final.",
+      "open": "Abrir"
+    }
+  },
+  "Footer": {
+    "copy": "© {year}",
+    "built": "Construído com Next.js, TypeScript, Tailwind CSS, Framer Motion e next-intl."
+  }
+}

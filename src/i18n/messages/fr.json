@@ -1,0 +1,169 @@
+{
+  "Metadata": {
+    "title": "Óscar Folha | Ingénieur Logiciel",
+    "description": "Portfolio premium multilingue de Óscar Folha, ingénieur logiciel axé sur le développement full-stack, la qualité produit et la livraison collaborative."
+  },
+  "Nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "gallery": "Galerie",
+    "contact": "Contact"
+  },
+  "ThemeToggle": {
+    "light": "Passer en mode clair",
+    "dark": "Passer en mode sombre"
+  },
+  "LanguageSwitcher": {
+    "label": "Changer de langue"
+  },
+  "Hero": {
+    "eyebrow": "Ingénieur Logiciel",
+    "greeting": "Óscar Folha",
+    "titleLead": "Je crée des produits numériques avec",
+    "titleAccent": "clarté et ambition",
+    "intro": "Ingénieur logiciel avec de solides compétences techniques et relationnelles. Je suis ambitieux, curieux d'apprendre, déterminé, autocritique mais confiant, et j'apprécie le travail d'équipe, l'échange d'idées et le feedback constructif.",
+    "primaryCta": "Me contacter",
+    "secondaryCta": "Voir les projets",
+    "availability": "Disponibilité",
+    "availabilityValue": "Ouvert à des défis d'ingénierie à fort impact",
+    "locationLabel": "Basé à",
+    "experienceLabel": "Expérience",
+    "experienceValue": "Plus de 3 ans en ingénierie logicielle"
+  },
+  "About": {
+    "eyebrow": "À propos",
+    "title": "Un ingénieur orienté produit qui valorise la rigueur technique et une collaboration saine.",
+    "description": "J'aime résoudre des problèmes sur toute la stack, améliorer la qualité de livraison et aider les équipes à travailler avec plus de confiance, de clarté et d'élan.",
+    "quote": "J'aime le travail en équipe et contribuer à un environnement positif grâce à un échange constant d'idées, de soutien et de feedback constructif.",
+    "details": {
+      "location": "Localisation",
+      "birthday": "Date de naissance",
+      "education": "Formation"
+    },
+    "educationDegrees": "Licence et Master en Génie Logiciel",
+    "educationInstitution": "ISEP Porto",
+    "skillsEyebrow": "Compétences clés",
+    "skillsTitle": "Des compétences qui combinent vision produit, livraison et profondeur technique",
+    "skills": {
+      "fullStack": "Développement Full Stack",
+      "english": "Anglais avancé",
+      "typescript": "TypeScript et JavaScript",
+      "react": "React et Node.js",
+      "java": "Java",
+      "graphql": "GraphQL",
+      "docker": "Docker et Jenkins",
+      "databases": "Bases de données",
+      "softwareDesign": "Conception et développement logiciel",
+      "devops": "DevOps"
+    }
+  },
+  "Experience": {
+    "eyebrow": "Expérience",
+    "title": "Un parcours marqué par la production logicielle et de solides bases académiques.",
+    "description": "De la livraison de logiciels d'entreprise aux études avancées en ingénierie, chaque étape a renforcé ma façon de concevoir, communiquer et exécuter.",
+    "items": {
+      "msglife": {
+        "period": "Mars 2022 - Aujourd'hui",
+        "title": "Ingénieur Logiciel",
+        "company": "msg life iberia",
+        "summary": "Je contribue à la livraison de logiciels dans un environnement d'ingénierie professionnel axé sur la fiabilité, la collaboration et l'amélioration continue.",
+        "points": [
+          "Conception et évolution de solutions avec attention à la maintenabilité et à la qualité produit.",
+          "Collaboration entre équipes, partage de feedback et soutien à des pratiques de livraison saines.",
+          "Équilibre entre exécution technique, communication claire et sens des responsabilités."
+        ]
+      },
+      "masters": {
+        "period": "Master",
+        "title": "Master en Génie Logiciel",
+        "company": "ISEP Porto",
+        "summary": "Formation avancée centrée sur les méthodes d'ingénierie logicielle, l'architecture et une réflexion technique disciplinée.",
+        "points": [
+          "Approfondissement en architecture logicielle et pratiques de développement.",
+          "Renforcement de la pensée analytique et de la résolution de problèmes à l'échelle système.",
+          "Base plus solide pour des décisions d'ingénierie complexes."
+        ]
+      },
+      "bachelors": {
+        "period": "Licence",
+        "title": "Licence en Génie Logiciel",
+        "company": "ISEP Porto",
+        "summary": "Une base technique large en programmation, systèmes, travail d'équipe et fondamentaux de l'ingénierie.",
+        "points": [
+          "Développement de solides fondations en génie logiciel.",
+          "Participation à des projets collaboratifs avec de vraies contraintes de livraison.",
+          "Construction de la base d'un parcours full stack."
+        ]
+      }
+    }
+  },
+  "Projects": {
+    "eyebrow": "Projets",
+    "title": "Explorez mon travail sur GitHub",
+    "description": "Découvrez une collection de projets d'ingénierie, d'outils et de contributions en développement full-stack, DevOps et product engineering.",
+    "cta": "Voir tous les dépôts"
+  },
+  "Gallery": {
+    "eyebrow": "Galerie",
+    "title": "Moments de l'académie et de la communauté tech",
+    "description": "Un aperçu de mon parcours à travers l'université, les études de master et la participation à l'écosystème technologique de Porto.",
+    "open": "Ouvrir l'image",
+    "items": {
+      "masters": {
+        "title": "Études de Master",
+        "alt": "Portrait du programme de master à ISEP Porto"
+      },
+      "portoTechHub": {
+        "title": "Événement Porto Tech Hub",
+        "alt": "Réseautage lors d'un événement de la communauté technologique de Porto"
+      },
+      "masters2": {
+        "title": "Vie Académique",
+        "alt": "Moments de la vie universitaire et des études"
+      }
+    }
+  },
+  "Contact": {
+    "eyebrow": "Contact",
+    "title": "Parlons ingénierie, qualité produit ou prochain défi.",
+    "description": "Le formulaire valide les champs puis ouvre votre client mail avec un message prérempli, ce qui laisse le site prêt à fonctionner sans backend.",
+    "emailLabel": "Email",
+    "locationLabel": "Localisation",
+    "errors": {
+      "nameRequired": "Veuillez saisir votre nom.",
+      "emailRequired": "Veuillez saisir votre email.",
+      "emailInvalid": "Veuillez saisir une adresse email valide.",
+      "messageRequired": "Veuillez saisir un message."
+    },
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "company": "Entreprise",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "submitting": "Préparation",
+      "success": "Votre client mail s'ouvre avec un message prérempli.",
+      "helper": "Aucun backend nécessaire : le formulaire prépare un brouillon validé.",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "vous@exemple.com",
+      "companyPlaceholder": "Entreprise ou équipe",
+      "messagePlaceholder": "Parlez-moi du projet, du poste ou du défi.",
+      "subjectPrefix": "Contact portfolio de"
+    },
+    "social": {
+      "email": "Email",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "cv": "Curriculum Vitae",
+      "placeholder": "Lien placeholder prêt à être remplacé par votre profil réel.",
+      "ready": "Prêt à être utilisé dans le portfolio final.",
+      "open": "Ouvrir"
+    }
+  },
+  "Footer": {
+    "copy": "© {year}",
+    "built": "Construit avec Next.js, TypeScript, Tailwind CSS, Framer Motion et next-intl."
+  }
+}
